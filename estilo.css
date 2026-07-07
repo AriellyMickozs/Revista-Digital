@@ -16,3 +16,11 @@ body{
 .cabecalho h1{
     margin-left: 30%;
 }
+.conteudo01{
+    display: flex;
+    padding: 32px;
+    justify-content: center;
+    align-items: center;
+    background-color: purple;
+    font-size: 24px;
+}
