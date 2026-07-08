@@ -3,7 +3,7 @@ body{
     color: black;
 }
 .cabecalho{
-   background:linear-gradient(to right, rgb(100, 218, 218) 30%, rgb(69, 134, 207) 30%);
+   background:linear-gradient(to right, green 30%, rgb(69, 134, 207) 30%);
    display: flex;
    flex-direction: column;
    align-items: center;
